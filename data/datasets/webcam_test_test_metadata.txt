@@ -1,0 +1,15 @@
+SPECS:
+dtype->uint8
+label_array_shape->(19, 1)
+nb_classes->6
+dataset_shape->(19, 7500)
+shape->(50, 50, 3)
+:SPECS_END
+LABEL_MAP:
+0->Ekdeepl
+1->shreya
+2->gurmandeep
+3->udaykanth
+4->aish
+5->hank
+:LABEL_MAP_END

@@ -1,0 +1,20 @@
+SPECS:
+num_of_epoch->800
+training_batch_size->10
+dataset_trained_on->/home/aishwarya/Documents/IOP/data/datasets/webcam_test_train.h5
+label_array_shape->(29, 1)
+nb_classes->6
+data_batch_size->29
+dataset_shape->(29, 7500)
+shape->(50, 50, 3)
+dtype->uint8
+original_model_address->/home/aishwarya/Documents/IOP/data/models/model_webcam_test_800.h5
+:SPECS_END
+LABEL_MAP:
+0->Ekdeepl
+1->shreya
+2->gurmandeep
+3->udaykanth
+4->aish
+5->hank
+:LABEL_MAP_END
